@@ -20,7 +20,7 @@ A simple blog web application where users can create, view, edit, and delete blo
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
 - [EJS](https://ejs.co/)
-- HTML & CSS
+- [HTML](https://www.w3schools.com/html/) & [CSS](https://www.w3schools.com/css/)
 
 ---
 
