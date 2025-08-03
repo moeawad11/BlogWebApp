@@ -1,4 +1,5 @@
 📘 BlogWebApp
+
 A simple blog web application where users can create, view, edit, and delete blog posts. Built using NodeJS, ExpressJS and EJS templating.
 
 ---
