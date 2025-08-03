@@ -23,19 +23,6 @@ A simple blog web application where users can create, view, edit, and delete blo
 
 ---
 
-📁 Folder Structure
-blogWebApp/
-├── app.js
-├── public/
-│ └── style.css
-├── views/
-│ ├── index.ejs
-│ └── edit.ejs
-├── package.json
-└── README.md
-
----
-
 📦 Installation & Running Locally
 
 1. Clone the repo to your local machine: `git clone https://github.com/your-username/blogWebApp.git`
