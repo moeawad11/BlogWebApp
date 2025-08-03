@@ -43,6 +43,7 @@ button {
 
 .inline {
   display: inline;
+  margin-right: 5px;
 }
 
 @media (max-width: 600px) {
