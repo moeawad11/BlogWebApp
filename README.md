@@ -1,4 +1,4 @@
-# BlogWebApp
+📘 BlogWebApp
 A simple blog web application where users can create, view, edit, and delete blog posts. Built using NodeJS, ExpressJS and EJS templating.
 
 ---
@@ -22,6 +22,18 @@ A simple blog web application where users can create, view, edit, and delete blo
 - HTML & CSS
 
 ---
+
+📸 Demo
+
+- No posts (empty state)
+![No Posts](https://github.com/user-attachments/assets/67052e3e-718a-4c80-bd38-5d296124a891)
+
+- Posts list (with sample posts)
+![Posts List](https://github.com/user-attachments/assets/bf1c7b9e-d881-4258-b7e2-3e23322e9c1e)
+
+- Edit post page
+![Edit Post](https://github.com/user-attachments/assets/967a713b-4c9c-4209-83d5-17664dd8299d)
+
 
 📦 Installation & Running Locally
 
