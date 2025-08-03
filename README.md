@@ -39,6 +39,6 @@ A simple blog web application where users can create, view, edit, and delete blo
 📦 Installation & Running Locally
 
 1. Clone the repo to your local machine: `git clone https://github.com/your-username/blogWebApp.git`
-2. Go into the folder path: `git clone https://github.com/your-username/blogWebApp.git`
+2. Go into the folder path: `cd blogWebApp`
 3. Install dependencies: `npm install`
 4. Start the sever: `node app.js`
